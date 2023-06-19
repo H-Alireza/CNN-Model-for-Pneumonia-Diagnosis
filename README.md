@@ -1,6 +1,6 @@
 # CNN Model for Pneumonia Diagnosis
 
-<img src="/1.jpg" alt="Data Sample" width="50%">
+<img src="/1.png" alt="Data Sample" width="50%">
 
 
 This project focuses on developing a CNN model for pneumonia diagnosis using chest X-ray images. The model achieved an accuracy of 90.54% on the test dataset.
